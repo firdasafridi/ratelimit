@@ -1,6 +1,6 @@
 # Rate Limiter
 
-A Go library for rate limiting user requests using both in-memory and Redis storage to ensure optimal performance and security.
+A Go library for rate limiting user requests using both in-memory and Redis storage to ensure optimal performance and scalability.
 
 ## Features
 - In-memory rate limiting using token bucket algorithm.
